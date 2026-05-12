@@ -1,4 +1,4 @@
-# PSP
+# Product Substrate Pairing (PSP)
 
 Introduction:
 Use the minimal cut set (MCS) based approach to compute intervention strategies that enforce strong growth coupled product formation. We combine these analyses with publicly available -omics data to exclude essential genes from editing. The corresponding set of gene loci are repressed using multiplex CRISPR interference (CRISPRi), which we optimize for use in P. putida KT2440. Our implementation results in a highly edited strain that, in a single iteration of strain engineering, achieves close to 50% max theoretical yield of indigoidine in P. putida KT2440 and TRY characteristics that maintain fidelity from laboratory to industrially relevant scales.
